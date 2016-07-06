@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_control_layout.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\selector_bg_control_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_start_play.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\ic_start_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_inner_holo_dark.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\switch_inner_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_prev.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\ic_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_selector.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fast_backward.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\ic_fast_backward.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_fox_tail.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\progress_bar_fox_tail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_traffic_thumb.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\switch_traffic_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_setting.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\ic_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\series_select_bg.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\series_select_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_traffic_track.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\switch_traffic_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb_style.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\seekbar_thumb_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_holo_dark.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\switch_track_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fast_forward.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\ic_fast_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_definition.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\bg_definition.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_next.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_volume_style_drawable.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\seekbar_volume_style_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style_drawable.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\seekbar_style_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_download.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\drawable\\ic_download.xml"
+    }
+]

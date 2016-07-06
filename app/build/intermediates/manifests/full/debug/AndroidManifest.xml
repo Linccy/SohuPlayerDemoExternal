@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sohuvideo.playerdemo"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.sohuvideo.playerdemo.DemoApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo.Light" >
+        <activity
+            android:name="com.sohuvideo.playerdemo.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sohuvideo.playerdemo.SecondPgcActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sohuvideo.playerdemo.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.sohuvideo.playerdemo.PlayerActivity"
+            android:configChanges="keyboardHidden|orientation|navigation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@style/style_notitlebar"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="sohu.intent.action.PLAYVIDEO" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sohuvideo.playerdemo.DetailActivity"
+            android:configChanges="keyboardHidden|orientation|navigation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sohuvideo.playerdemo.SecondPgcActivity" />
+        </activity>
+        <activity
+            android:name="com.sohuvideo.playerdemo.MoreTestActivity"
+            android:configChanges="keyboardHidden|orientation|navigation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sohuvideo.playerdemo.MainActivity" />
+        </activity>
+
+        <service
+            android:name="com.sohuvideo.player.statistic.LogService"
+            android:exported="false"
+            android:label="CoreService" >
+        </service>
+
+        <activity android:name="com.sohu.tv.news.ads.sdk.core.PadDetailsActivity" >
+            <intent-filter>
+                <action android:name="com.sdk.pad.details" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sohuvideo.playerdemo.DownloadActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sohuvideo.playerdemo.MainActivity" />
+        </activity>
+
+        <!-- 配置渠道号 请不要和SDK初始化setPartner同时设置 -->
+        <!--
+              name不用变 
+        	  value填写申请对应的partner值和key
+        -->
+        <meta-data
+            android:name="SOHUVIDEO_CHANNEL"
+            android:value="10051" />
+        <meta-data
+            android:name="SOHUVIDEO_KEY"
+            android:value="370f37af1847ee3308e77f86629f3955" />
+    </application>
+
+</manifest>

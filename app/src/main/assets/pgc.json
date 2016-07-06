@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "cate_id": 95,
+            "cate_code": 194,
+            "cate_name": "家庭"
+        },
+        {
+            "cate_id": 27,
+            "cate_code": 124,
+            "cate_name": "原创"
+        },
+        {
+            "cate_id": 28,
+            "cate_code": 125,
+            "cate_name": "运动"
+        },
+        {
+            "cate_id": 29,
+            "cate_code": 126,
+            "cate_name": "汽车"
+        },
+        {
+            "cate_id": 30,
+            "cate_code": 127,
+            "cate_name": "科技"
+        },
+        {
+            "cate_id": 31,
+            "cate_code": 128,
+            "cate_name": "游戏"
+        },
+        {
+            "cate_id": 32,
+            "cate_code": 129,
+            "cate_name": "生活"
+        },
+        {
+            "cate_id": 34,
+            "cate_code": 131,
+            "cate_name": "旅游"
+        },
+        {
+            "cate_id": 36,
+            "cate_code": 133,
+            "cate_name": "搞笑"
+        },
+        {
+            "cate_id": 83,
+            "cate_code": 183,
+            "cate_name": "创意视频"
+        },
+        {
+            "cate_id": 86,
+            "cate_code": 186,
+            "cate_name": "自拍"
+        },
+        {
+            "cate_id": 87,
+            "cate_code": 187,
+            "cate_name": "娱乐"
+        },
+        {
+            "cate_id": 88,
+            "cate_code": 189,
+            "cate_name": "资讯"
+        },
+        {
+            "cate_id": 89,
+            "cate_code": 190,
+            "cate_name": "时尚"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_color" >
+
+    <include
+        android:id="@+id/loading"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        layout="@layout/data_loading"
+        android:visibility="gone" />
+
+    <GridView
+        android:id="@+id/pgc_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:fadingEdge="none"
+        android:horizontalSpacing="6dp"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="2"
+        android:padding="6dp"
+        android:scrollbars="none"
+        android:verticalSpacing="5dp" />
+
+</RelativeLayout>

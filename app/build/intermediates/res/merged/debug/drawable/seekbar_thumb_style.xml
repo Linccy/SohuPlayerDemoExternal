@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 按下状态 -->
+    <item android:drawable="@drawable/player_icon_slider_pressed" android:state_pressed="true"/>
+    <!-- 有焦点 -->
+    <item android:drawable="@drawable/player_icon_slider_pressed" android:state_focused="true"/>
+
+    <!-- 普通无焦点状态 -->
+    <item android:drawable="@drawable/player_icon_slider" android:state_focused="false" android:state_pressed="false"/>
+
+</selector>

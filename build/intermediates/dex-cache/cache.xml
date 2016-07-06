@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lcc\Desktop\android\SohuTV_SDK_101_PlayerPlugin\SohuPlayerDemoExternal\app\libs\SohuPlayerSDK_201512081716.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1f1c3ae99a4c76073ba0f95064584805c4eaf75e">
+        <dex dex="C:\Users\Lcc\Desktop\android\SohuTV_SDK_101_PlayerPlugin\SohuPlayerDemoExternal\app\build\intermediates\transforms\dex\debug\folders\1000\2\SohuPlayerSDK_201512081716_7473437975958f8ffe3932811b0988913d24b376\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Lcc\Desktop\android\SohuTV_SDK_101_PlayerPlugin\SohuPlayerDemoExternal\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_9ae33f966dc9c8f26b025bd185a23a12e2c9417e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lcc\Desktop\android\SohuTV_SDK_101_PlayerPlugin\SohuPlayerDemoExternal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b14f29829e5776c77070177ffa9e0e335073b70">
+        <dex dex="C:\Users\Lcc\Desktop\android\SohuTV_SDK_101_PlayerPlugin\SohuPlayerDemoExternal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1147a98511b213462505469feb7926bad9bc2d99\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lcc\Desktop\android\SohuTV_SDK_101_PlayerPlugin\SohuPlayerDemoExternal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cc5aa0456e00219f645318800351d84c5ff5fcd2">
+        <dex dex="C:\Users\Lcc\Desktop\android\SohuTV_SDK_101_PlayerPlugin\SohuPlayerDemoExternal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6aae82c01ef2c388544408f6c340f827a22c38f0\classes.dex" />
+    </item>
+
+</items>

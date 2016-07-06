@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#C62014</color>
+    <color name="black">#000000</color>
+    <color name="green">#1C6C0A</color>
+    <color name="blue">#6699ff</color>
+    <color name="green2">#6ca72c</color>
+    <color name="dark1">#1B1B1B</color>
+    <color name="dark2">#222222</color>
+    <color name="dark3">#46494B</color>
+    <color name="gray1">#75767B</color>
+    <color name="gray2">#868A8F</color>
+    <color name="gray3">#C1C5C7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bg">#E8EBEE</color>
+    <color name="bg2">#CCD1D7</color>
+    <color name="bg3">#D5D7DA</color>
+    <color name="bg_press">#DADDE0</color>
+    <color name="bg_focus">#A6AAAC</color>
+    <color name="bg_sort">#E0E2E4</color>
+    <color name="bg_poster">#FBFBFC</color>
+    <color name="black_50_transparent">#e0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="loading_progress_bar_bg">#3D3D3D</color>
+    <color name="loading_progress_bar_progress">#D60202</color>
+    <color name="loading_background">#E3E7EA</color>
+    <color name="gray2_color">#868A8F</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="bg_color">#E8EBEE</color>
+    <color name="dark3_color">#46494B</color>
+</resources>

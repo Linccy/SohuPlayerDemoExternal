@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="23157922047781" >
+
+    <task
+        name="javac"
+        duration="1795" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="742" />
+    <task
+        name="verifier"
+        duration="404" />
+
+    <artifact
+        location="C:\Users\Lcc\Desktop\android\SohuTV_SDK_101_PlayerPlugin\SohuPlayerDemoExternal\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="23157922047781" >
+        <artifact
+            location="C:\Users\Lcc\Desktop\android\SohuTV_SDK_101_PlayerPlugin\SohuPlayerDemoExternal\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="style_notitlebar">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="style_listview">
+        <item name="android:cacheColorHint">@color/transparent</item>
+        <item name="android:fadeEnabled">false</item>
+        <item name="android:divider">@drawable/vertical_divider</item>
+    </style>
+
+    <style name="style_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+</resources>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_color"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" >
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="3dp"
+                android:background="@drawable/line_list" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="直播tvid:"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_large" />
+
+            <EditText
+                android:id="@+id/tvid"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:inputType="number"
+                android:text="147"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="直播 url:"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_large" />
+
+            <EditText
+                android:id="@+id/liveurl"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/playlivevideo"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="@drawable/button_background"
+                android:gravity="center"
+                android:text="播放"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" >
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="3dp"
+                android:background="@drawable/line_list" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="本地播放url(本地或者网络):"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_large" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/localurl"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="http://data.vod.itc.cn/?new=/251/163/8dHjHBSjqKzy3j3A17Fua1.mp4"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/playlocalvideo"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="@drawable/button_background"
+                android:gravity="center"
+                android:text="播放"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" >
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="3dp"
+                android:background="@drawable/line_list" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="搜狐源 vid:"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_large" />
+
+            <EditText
+                android:id="@+id/vid"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:inputType="number"
+                android:text="2139898"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="搜狐源site:"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_large" />
+
+            <EditText
+                android:id="@+id/site"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:inputType="number"
+                android:text="1"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="搜狐源aid:"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_large" />
+
+            <EditText
+                android:id="@+id/aid"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:inputType="number"
+                android:text="8354349"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="播放开始点(s):"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_large" />
+
+            <EditText
+                android:id="@+id/second"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:inputType="number"
+                android:text="100"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/playsohuvideo"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/button_background"
+                android:gravity="center"
+                android:text="播放"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

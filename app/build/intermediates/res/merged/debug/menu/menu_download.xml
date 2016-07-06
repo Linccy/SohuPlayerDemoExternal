@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.actionbartest.MainActivity" >
+
+    <item
+        android:id="@+id/add_downloadtask"
+        android:icon="@drawable/menu_add_film"
+        android:showAsAction="never"
+        android:title="搜狐视频下载"/>
+
+</menu>

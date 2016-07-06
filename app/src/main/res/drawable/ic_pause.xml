@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"> 
+    <!-- 按下 -->
+    <item android:drawable="@drawable/ic_pause_pressed" android:state_pressed="true" />
+    <!-- 不可用 -->
+    <!-- <item android:drawable="@drawable/ic_pause_disabled" android:state_enable="false" /> -->
+    <!-- 普通 -->
+    <item android:drawable="@drawable/ic_pause_normal" />
+</selector>

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\option_item.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\option_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_download.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\dialog_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item_column.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\grid_item_column.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second_pgc.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\activity_second_pgc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_controller.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\popup_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_play_local_series.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\item_play_local_series.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item_video_download.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\grid_item_video_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item_video.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\grid_item_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_list_item.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\download_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\option_list.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\option_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item_videobtn.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\grid_item_videobtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_list.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\download_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_video.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\item_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_moretest.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\activity_moretest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\definition_item.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\definition_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_play_live_series.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\item_play_live_series.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_loading.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\data_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_controller_bar.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\layout_controller_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_controller.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\layout_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_controller_title.xml",
+        "source": "C:\\Users\\Lcc\\Desktop\\android\\SohuTV_SDK_101_PlayerPlugin\\SohuPlayerDemoExternal\\app\\src\\main\\res\\layout\\layout_controller_title.xml"
+    }
+]

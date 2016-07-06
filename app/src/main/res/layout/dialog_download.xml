@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_color"
+    android:orientation="vertical" >
+
+    <RadioGroup
+        android:id="@+id/radiogroup"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/definition_fluency"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:checked="true"
+            android:gravity="center"
+            android:text="标清"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_large"
+            android:visibility="gone" >
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/definition_high"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="高清"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_large"
+            android:visibility="gone" >
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/definition_super"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="超清"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_large"
+            android:visibility="gone" >
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/definition_original"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="原话"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_large"
+            android:visibility="gone" >
+        </RadioButton>
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/line"
+        android:layout_width="fill_parent"
+        android:layout_height="3dip"
+        android:background="@drawable/line_list" />
+
+    <GridView
+        android:id="@+id/albumdownload"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="#00000000"
+        android:fadingEdge="none"
+        android:horizontalSpacing="6dp"
+        android:numColumns="3"
+        android:padding="6dp"
+        android:scrollbars="none" />
+
+</LinearLayout>
